@@ -1,1 +1,1 @@
-# todo_app_with_react
+todo app created with HTML, SASS and React
